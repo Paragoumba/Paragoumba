@@ -1,5 +1,5 @@
 <div align="center">
-  ![header: Paragoumba](/assets/imgs/theme/header.svg)
+  <img src="/assets/imgs/theme/header.svg" alt="header: Paragoumba"/>
 </div>
   
 <div align="center">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  ![separator](/assets/imgs/theme/separator.svg)
+  <img src="/assets/imgs/theme/separator.svg" alt="separator">
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 
 <div align="center">
-  ![footer](/assets/imgs/theme/footer.svg)
+  <img src="/assets/imgs/theme/footer.svg" alt="footer">
 </div>
 
 <!--
