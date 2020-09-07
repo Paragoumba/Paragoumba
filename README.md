@@ -1,5 +1,7 @@
-![header: Paragoumba](/assets/imgs/theme/header.svg)
-
+<div align="center">
+  ![header: Paragoumba](/assets/imgs/theme/header.svg)
+</div>
+  
 <div align="center">
   <a href="https://isocpp.org/">
     <img src="/assets/imgs/logos/c++.svg" alt="C++" title="C++">
@@ -15,7 +17,9 @@
   </a>
 </div>
 
-![separator](/assets/imgs/theme/separator.svg)
+<div align="center">
+  ![separator](/assets/imgs/theme/separator.svg)
+</div>
 
 <div align="center">
   
@@ -34,7 +38,10 @@
     </a>
 </div>
 
-![footer](/assets/imgs/theme/footer.svg)
+
+<div align="center">
+  ![footer](/assets/imgs/theme/footer.svg)
+</div>
 
 <!--
 **Paragoumba/Paragoumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
