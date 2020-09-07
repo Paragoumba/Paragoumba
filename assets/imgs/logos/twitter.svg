@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="100"
+   width="100"
+   sodipodi:docname="Twitter_Logo_Blue.svg"
+   version="1.1"
+   viewBox="0 0 100 100"
+   data-name="Logo — FIXED"
+   id="Logo_FIXED">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Twitter_Logo_Blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Logo_FIXED"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="37.104072"
+     inkscape:cx="200"
+     inkscape:zoom="2.21"
+     showgrid="false"
+     id="namedview13"
+     inkscape:window-height="1059"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{fill:#1da1f2;}</style>
+  </defs>
+  <title
+     id="title6">Twitter_Logo_Blue</title>
+  <rect
+     style="stroke-width:0.25"
+     y="0"
+     x="0"
+     id="rect8"
+     height="100"
+     width="100"
+     class="cls-1" />
+  <path
+     style="stroke-width:0.25"
+     id="path10"
+     d="m 38.405,75.3975 c 23.585,0 36.485,-19.54 36.485,-36.485 0,-0.555 0,-1.1075 -0.0375,-1.6575 A 26.09,26.09 0 0 0 81.25,30.6175 25.595,25.595 0 0 1 73.885,32.635 12.8675,12.8675 0 0 0 79.5225,25.5425 25.6975,25.6975 0 0 1 71.38,28.655 12.835,12.835 0 0 0 49.5275,40.35 36.405,36.405 0 0 1 23.1,26.9525 12.8325,12.8325 0 0 0 27.07,44.07 12.7275,12.7275 0 0 1 21.25,42.465 c 0,0.0525 0,0.1075 0,0.1625 a 12.8275,12.8275 0 0 0 10.2875,12.57 12.8025,12.8025 0 0 1 -5.79,0.22 12.8375,12.8375 0 0 0 11.98,8.905 25.73,25.73 0 0 1 -15.925,5.5 26.1025,26.1025 0 0 1 -3.0525,-0.185 36.3025,36.3025 0 0 0 19.655,5.75"
+     class="cls-2" />
+</svg>
