@@ -6,13 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   height="100"
-   width="100"
-   sodipodi:docname="Telegram_logo.svg"
-   id="svg22"
+   viewBox="0 0 50 50"
    version="1.1"
-   viewBox="0 0 100 100">
+   id="svg22"
+   sodipodi:docname="telegram.svg"
+   width="50"
+   height="50"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata26">
     <rdf:RDF>
@@ -26,85 +26,86 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg22"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="133.04492"
-     inkscape:cx="185.11212"
-     inkscape:zoom="2.60451"
-     showgrid="false"
-     id="namedview24"
-     inkscape:window-height="1059"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1059"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="2.60451"
+     inkscape:cx="188.18372"
+     inkscape:cy="84.753453"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
   <style
      class="darkreader darkreader--fallback">html, body, body :not(iframe) { background-color: #181a1b !important; border-color: #776e62 !important; color: #e8e6e3 !important; }</style>
   <svg:defs
      id="defs12">
     <svg:linearGradient
-       gradientTransform="scale(0.41666668)"
-       gradientUnits="userSpaceOnUse"
-       y2="180"
-       y1="40.079998"
-       x2="100.08"
+       id="a"
        x1="160.08"
-       id="a">
+       x2="100.08"
+       y1="40.079998"
+       y2="180"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.20833334)">
       <svg:stop
-         id="stop2"
+         offset="0"
          stop-color="#37aee2"
-         offset="0" />
+         id="stop2" />
       <svg:stop
-         id="stop4"
+         offset="1"
          stop-color="#1e96c8"
-         offset="1" />
+         id="stop4" />
     </svg:linearGradient>
     <svg:linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.45496116,0.38159547)"
-       y2="174.66003"
-       y1="131.03925"
-       x2="146.50331"
+       id="b"
        x1="123.67709"
-       id="b">
+       x2="146.50331"
+       y1="131.03925"
+       y2="174.66003"
+       gradientTransform="scale(0.22748058,0.19079774)"
+       gradientUnits="userSpaceOnUse">
       <svg:stop
-         id="stop7"
+         offset="0"
          stop-color="#eff7fc"
-         offset="0" />
+         id="stop7" />
       <svg:stop
-         id="stop9"
+         offset="1"
          stop-color="#fff"
-         offset="1" />
+         id="stop9" />
     </svg:linearGradient>
   </svg:defs>
   <svg:circle
-     style="fill:url(#a);stroke-width:0.416667"
-     id="circle14"
+     cx="25"
+     cy="25"
+     r="25"
      fill="url(#a)"
-     r="50"
-     cy="50"
-     cx="50" />
+     id="circle14"
+     style="fill:url(#a);stroke-width:0.208334" />
   <svg:path
-     style="display:inline;stroke-width:0.416667"
+     fill="#c8daea"
+     d="m 20.416667,36.458334 c -0.81,0 -0.672292,-0.305834 -0.951667,-1.077082 L 17.083333,27.543125 35.416668,16.666667"
      id="path16"
-     d="m 40.833335,72.916667 c -1.620001,0 -1.344584,-0.611667 -1.903334,-2.154164 L 34.166667,55.08625 70.833337,33.333334"
-     fill="#c8daea" />
+     style="display:inline;stroke-width:0.208334" />
   <svg:path
-     style="display:inline;stroke-width:0.416667"
+     fill="#a9c9dd"
+     d="m 20.416667,36.458334 c 0.625001,0 0.901041,-0.285834 1.250001,-0.625 L 25,32.592085 20.842084,30.084793"
      id="path18"
-     d="m 40.833335,72.916667 c 1.250001,0 1.802081,-0.571667 2.500001,-1.25 l 6.666665,-6.482497 -8.315832,-5.014585"
-     fill="#a9c9dd" />
+     style="display:inline;stroke-width:0.208334" />
   <svg:path
-     style="display:inline;fill:url(#b);stroke-width:0.416667"
+     fill="url(#b)"
+     d="m 20.841667,30.085417 10.075001,7.443542 c 1.149792,0.634374 1.979375,0.305833 2.265834,-1.06729 l 4.10104,-19.325627 c 0.419791,-1.683333 -0.641666,-2.447083 -1.741666,-1.947708 l -24.081251,9.285625 c -1.64375,0.659375 -1.633958,1.576459 -0.299583,1.985 l 6.179791,1.928958 14.306875,-9.026041 c 0.675417,-0.409584 1.295417,-0.189584 0.786667,0.262083"
      id="path20"
-     d="m 41.683335,60.170835 20.150001,14.887083 c 2.299584,1.268749 3.95875,0.611667 4.531668,-2.134581 l 8.20208,-38.651253 c 0.839583,-3.366666 -1.283331,-4.894167 -3.483331,-3.895417 l -48.162502,18.57125 c -3.287501,1.31875 -3.267917,3.152918 -0.599167,3.97 l 12.359583,3.857916 28.613749,-18.052082 c 1.350834,-0.819167 2.590834,-0.379167 1.573335,0.524167"
-     fill="url(#b)" />
+     style="display:inline;fill:url(#b);stroke-width:0.208334" />
   <script />
 </svg:svg>
