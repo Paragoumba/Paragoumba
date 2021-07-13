@@ -28,6 +28,12 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/Paragoumba">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paragoumba&layout=compact&langs_count=6&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"/>
+  </a>
+</div>
+
+<div align="center">
     <a href="https://twitter.com/Paragoumba">
         <img src="https://raw.githubusercontent.com/Paragoumba/Paragoumba/master/assets/imgs/logos/twitter.svg" alt="Twitter" title="Twitter">
     </a>
